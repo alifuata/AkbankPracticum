@@ -1,0 +1,2 @@
+# AkbankPracticum
+Javascript Case
